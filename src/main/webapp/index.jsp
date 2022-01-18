@@ -3,7 +3,7 @@
     <title>Boxfuse Sample App: success!</title>
 </head>
 <body style="text-align: center">
-<h1>Congratulations This is CI/CD, Deployment to Azure webapp and local Tomcat server_v1!</h1>
+<h1>Congratulations This is CI/CD, Deployment to Azure webapp and local Tomcat server_v2!</h1>
 <img src="boxfuse.png">
 
 <h2>You have successfully launched your Instance!</h2>
@@ -17,7 +17,7 @@
 </strong></p>
 
 <% if("virtualbox".equals(System.getenv("BOXFUSE_PLATFORM_ID"))) { %>
-<h2 style="margin-top: 80px">Next steps</h2>
+<h2 style="margin-top: 180px">Next steps</h2>
 
 <p style="margin-bottom: 20px;">
     Display the Instance console:<br/>
@@ -56,7 +56,7 @@
 <p>If you need any help the <strong><a href="http://boxfuse.com/docs">documentation</a></strong> is there for you,<br/>or simply shoot us an email at <a href="mailto:support@boxfuse.com">support@boxfuse.com</a></p>
 
 <p>Say goodbye to snowflake servers.</p>
-<p><strong>Enjoy Boxfuse!</strong></p>
+<p><strong>Enjoy Azure Devops!</strong></p>
 <% } %>
 </body>
 </html>
