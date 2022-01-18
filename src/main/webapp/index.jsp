@@ -3,7 +3,7 @@
     <title>Boxfuse Sample App: success!</title>
 </head>
 <body style="text-align: center">
-<h1>Congratulations This is CI/CD, Deployment to Azure webapp and local Tomcat server_v2!</h1>
+<h1>Congratulations This is CI/CD, Deployment to Azure webapp and local Tomcat server_v3!</h1>
 <img src="boxfuse.png">
 
 <h2>You have successfully launched your Instance!</h2>
