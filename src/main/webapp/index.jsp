@@ -18,7 +18,7 @@
 
 <% if("virtualbox".equals(System.getenv("BOXFUSE_PLATFORM_ID"))) { %>
 <h2 style="margin-top: 180px">Next steps</h2>
-
+    <h1>hi This is Manikumar</h1>
 <p style="margin-bottom: 20px;">
     Display the Instance console:<br/>
     <strong>boxfuse logs <%= System.getenv("BOXFUSE_INSTANCE_ID") %>
